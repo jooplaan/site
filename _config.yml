@@ -1,0 +1,9 @@
+title:       Site
+author:      Joop Laan
+twitter:     j00p
+github:      jooplaan
+source:      ./_source
+destination: ./_site
+markdown: redcarpet
+pygments: true
+baseurl: /site
